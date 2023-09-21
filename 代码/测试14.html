@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>某某某</title>
+<style>
+        ul {
+            list-style: none;
+			display: flex;
+        } 
+        ul li {
+            width: 80px;
+            height: 80px;
+            text-align: center;
+            margin-left: 180px;
+			font-size: 30px;
+        }
+        ul li a {
+            text-decoration: none;
+            color:#000000;
+        }
+    </style>
+</head>
+<body background="文案.png">
+<ul>
+	<li style="background-color: #579CFF"><a href="a.html" target="d">文案①</a></li>
+    <li style="background-color: #579CFF"><a href="b.html" target="d">文案②</a></li>
+    <li style="background-color: #579CFF"><a href="c.html" target="d">文案③</a></li>
+	
+</ul>
+<iframe src="a.html" frameborder="0" width="1000px" height="500px" scrolling="no" name="d"></iframe>
+</body>
+<!--      iframe元素中frameborder属性规定是否显示框架周围的边框。
+		iframe元素中scrolling属性规定是否在 iframe 中显示滚动条。
+		iframe元素中name属性对应的属性值一定要与target属性一致，否则< a >链接无法找到目标框架
+-->
+</html>

@@ -1,0 +1,174 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>某某某</title>
+	<style>
+	#content{
+		width: 1200px;
+		height:300px;
+		border: 1px solid #333333;
+		margin:0 auto;
+		} 
+	#content h3{
+		border: 1px solid #333333;
+		background: #FFA900;
+		width: 142px;
+		padding-left:48px;
+		margin:0;
+		height:32px;
+		line-height:32px;
+		font-size: 16px;
+		font-family:"微软雅黑";
+		font-weight: 700px;
+		color: #ffffff;
+		}
+		ul{
+			margin:0;
+			padding:0;/*设置外边距和内边距均为0，清除列表的默认内外边距*/
+			position:relative;/*设置该盒子为相对定位，是为了盒子里面的内容进行绝对定位，作为参照的父对象*/
+		}
+		li{
+			/*list-style-type:none;都可用*/
+			display:block;/*.去掉列表项前的默认圓点*/
+		}
+		#content ul li{
+			border: 1px solid #333333;
+			width: 142px;
+			padding-left:48px;
+			background:  #FF9900;
+			height:51px;
+			line-height:32px;
+			color:#D3171A;
+			font-size: 12px;
+			font-family:"微软雅黑";
+			}
+		#content ul li span a{
+				color:#ffffff;/*设置字体的颜色*/
+				text-decoration:none;/*去除文字的下划线*/ 
+		}
+				#content ul li span a:hover{
+				text-decoration:underline;/*鼠标移到.上方时文字添加下划线*/
+			}
+		#content ul li div.menu{
+			width:300px;
+			height: 170px;
+			background:  #D8E3E5;
+			position:absolute;top:0;left:192px;/*二级菜单盒子定位在一级菜单盒子的左侧*/
+			display:none;/*隐藏二级菜单*/
+			}
+		#content ul li div.b1 a{
+			font:12px "微软雅黑";
+			text-decoration:none;
+			float:left;
+			height: 12px;
+			line-height:12px;
+			border-right: 1px solid #666666;
+			padding:0 8px;
+			margin-top:15px;/*设置上外边距实现行之间的距离*/
+		}
+		#content ul li div.b1 a:hover{ 
+			color:#f0000; text-decoration:underline;
+		}
+		#content ul li:hover {
+			background: #000000;/*当鼠标移动到商品分类一级茱单条目上面时，分类条目背景色变成红色。*/
+			}
+		#content ul li:hover .menu{
+			display:block;/*当鼠标移动到商品分类一级菜单条目上面时，在左侧显示分类的详细商品品种二级菜单*/
+			}
+		#content ul li div.b2 ,#content ul li div.b4{
+			background: #D8E3E5;
+			}
+	</style>
+</head>
+
+<body background="M6FXL@FMU4SH_)ASL908O(Y.png">
+	<div id="content">
+	
+	<h3>全部商品分类</h3>
+<ul>
+<li>
+<div class="menu b1" >
+	<a href= "">平板电视</a>
+	<a href="">空调</a>
+	<a href="">冰箱</a>
+	<a href= "">洗衣机</a>
+	<a href="">家庭影院</a>
+	<a href="">迷你音响</a>
+	<a href="">热水器</a>
+	<a href="">消毒柜</a>
+	<a href= "">洗碗机</a>
+	<a href ="">家电配件</a>
+	<a href="">净化器</a>
+<a href="">吸尘器</a>
+<a href="">加湿器</a>
+<a href="">挂烫机/熨斗</a>
+<a href="">电风扇</a>
+<a href= "">冷风扇</a>
+<a href="">插座</a>
+<a href="">净水器</a>
+<a href="">饮水机</a>
+<a href="">除湿机</a>
+<a href ="">干衣机</a>
+<a href="">清洁机</a>
+</div>
+<span>
+<a href="">家用电器</a>
+	
+</span>
+</li>
+<li>
+<div class="menu b2" > 
+	<a href="">华为</a>
+	<a href="">索尼</a>
+	<a href="">尼康</a>
+	<a href="">京东大衣</a>
+	<a href="">荣耀</a>
+	</div>
+<span>
+<a href="">手机、数码、京东通信</a>
+</span>
+</li>
+<li>
+<div class="menu b3"> 
+	<a href="">戴尔</a>
+	<a href="">宏碁</a>
+	<a href="">机械革命</a>
+	<a href="">七彩虹</a>
+	<a href="">经典钢笔</a>
+	</div>
+<span>
+<a href="">电脑、办公</a>
+</span>
+</li>
+<li>
+<div class="menu b4">
+	<a href="">沙发</a>
+	<a href="">空调</a>
+	<a href="">架子</a>
+	<a href="">不沾油铁锅</a>
+	<a href="">窗帘</a>
+
+	</div>
+<span>
+<a href-="">家居、家具、家装、厨具</a>
+</span>
+</li>
+<li>
+<div class="menu b5"> 
+	<a href=""></a>
+	<a href="">大宝</a>
+	<a href="">欧莱雅</a>
+	<a href="">小蜜蜂</a>
+	<a href="">洗衣粉</a>
+	<a href="">抹布</a>
+	</div>
+<span>
+<a href="">个护化妆、清洁用品</a>
+</span>
+
+	</li>
+	</ul>
+	</div>
+</body>
+</html>

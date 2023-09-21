@@ -11,9 +11,8 @@
 
    ![image-20230921170658034](README.assets/image-20230921170658034.png)
 
-3. `git add .`
+3. 运行代码下载指定分支，这里演示java程序设计
 
-   `git commit -m "提交第一份"`
+   `git clone -b java程序设计 https://github.com/SquareBlueH/Network-engineering-jobs.git`
 
-   `git push origin master`
-
+![image-20230921212945708](README.assets/image-20230921212945708.png)

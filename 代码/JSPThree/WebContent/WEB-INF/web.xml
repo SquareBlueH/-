@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
+  <servlet>
+    <servlet-name>servletdemo1</servlet-name>
+    <servlet-class>com.cn.servlet.servletdemo1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>servletdemo1</servlet-name>
+    <url-pattern>/JSPThree/servletdemo1</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+    <servlet-name>ServletDemo3</servlet-name>
+    <servlet-class>cd.ServletDemo3</servlet-class>
+    <init-param>
+      <param-name>encoding</param-name>
+      <param-value>UTF-8</param-value>
+    </init-param>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ServletDemo3</servlet-name>
+    <url-pattern>/JSPThree/ServletDemo3</url-pattern>
+  </servlet-mapping>
+  
+  
+  
+  <servlet>
+  <description></description>
+  <display-name>ServletDemo4</display-name>
+  <servlet-name>ServletDemo4</servlet-name>
+  <servlet-class>cs.ServletDemo4</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>ServletDemo4</servlet-name>
+  <url-pattern>/JSPThree/ServletDemo4</url-pattern>
+  </servlet-mapping>
+  <servlet>
+  <description></description>
+    <display-name>ServletDemo5</display-name>
+  <servlet-name>ServletDemo5</servlet-name>
+  <servlet-class>cs.ServletDemo5</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>ServletDemo5</servlet-name>
+  <url-pattern>/JSPThree/ServletDemo5</url-pattern>
+  </servlet-mapping>
+  
+</web-app>

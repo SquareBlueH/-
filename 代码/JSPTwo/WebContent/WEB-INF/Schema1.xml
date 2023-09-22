@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="球队列表">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="球队">
+					<xsd:complexType>
+					<xsd:sequence>
+						<xsd:element name="队名" type="xsd:string"/>
+							<xsd:element name="队员">
+								<xsd:complexType>
+								<xsd:sequence>
+								<xsd:element name="姓名" type="string" />
+								</xsd:sequence>
+							</xsd:complexType>
+						
+							<xsd:attribute name="类型" type="xsd:string" />
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

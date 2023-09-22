@@ -3,8 +3,7 @@
 
 ## 源码操作方式
 
-项目需求：[Tomcat9.0](https://wwlh.lanzouw.com/b052hm6ad 
-密码:3333[)+[jdk1.8](https://mp.weixin.qq.com/s/UBQ90ELYbTLMPzeLQhYk2g)+[eclipse](https://mp.weixin.qq.com/s/UBQ90ELYbTLMPzeLQhYk2g)+[mysql8.0](https://mp.weixin.qq.com/s/UBQ90ELYbTLMPzeLQhYk2g)，只限制前[两项版本](https://tomcat.apache.org/whichversion.html)。~~如完成配置要求，则忽略此消息。~~
+项目需求：[Tomcat9.0](https://wwlh.lanzouw.com/b052hm6ad密码:3333[)+[jdk1.8](https://mp.weixin.qq.com/s/UBQ90ELYbTLMPzeLQhYk2g)+[eclipse](https://mp.weixin.qq.com/s/UBQ90ELYbTLMPzeLQhYk2g)+[mysql8.0](https://mp.weixin.qq.com/s/UBQ90ELYbTLMPzeLQhYk2g)，只限制前[两项版本](https://tomcat.apache.org/whichversion.html)。~~如完成配置要求，则忽略此消息。~~
 
 ------
 

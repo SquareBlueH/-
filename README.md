@@ -14,7 +14,7 @@
 3. 运行代码下载指定分支，演示`java程序设计`
 
    ```
-   `git clone -b java程序设计 https://github.com/SquareBlueH/Network-engineering-jobs.git`
+   git clone -b java程序设计 https://github.com/SquareBlueH/Network-engineering-jobs.git
    ```
    
    

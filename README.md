@@ -19,7 +19,7 @@
 
 1. 请认准下载仓库`分支的名称`
 
-   ![image-20230921170541216](README.assets/image-20230921170541216.png)
+   > ![image-20230921170541216](README.assets/image-20230921170541216.png)
 
 2. 桌面右键打开`Open Git Bash here`
 

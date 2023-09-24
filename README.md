@@ -9,7 +9,7 @@
 
 操作系统：`Windows10/11`
 
-项目需求：[mysql8.0](https://mp.weixin.qq.com/s/gxFRMD2ZmP8EgknaoRCdAQ)。~~如已解决，请忽略以上消息。~~
+项目需求：[mysql8.0](https://mp.weixin.qq.com/s/gxFRMD2ZmP8EgknaoRCdAQ)，~~如已解决，请忽略以上消息。~~
 
 ------
 

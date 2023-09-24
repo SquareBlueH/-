@@ -27,12 +27,12 @@
 
    ![image-20230921170658034](README.assets/image-20230921170658034.png)
 
-3. 运行代码下载指定分支，演示`java程序设计`
+3. 运行代码下载指定分支，演示`Java程序设计`
 
    ```
-   git clone -b java程序设计 https://github.com/SquareBlueH/Network-engineering-jobs.git
+   git clone -b Java程序设计 https://github.com/SquareBlueH/Network-engineering-jobs.git
    ```
    
    
 
-![image-20230921212945708](README.assets/image-20230921212945708.png)
+![image-20230924175352704](README.assets/image-20230924175352704.png)

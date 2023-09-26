@@ -9,7 +9,7 @@
 
 操作系统：`Windows10/11`
 
-项目需求：IDEA~~如已解决，请忽略以上消息。~~
+项目需求：[IDEA](https://mp.weixin.qq.com/s/lCjdEvPv1_9zDizdxKbheg)+[JDK1.8](https://mp.weixin.qq.com/s/Lyv2zPT1J6r4ef7qu9nRPw)~~如已解决，请忽略以上消息。~~
 
 - 打开`IDEA`软件
 - 将下载好的文件夹中，进入`代码文件夹`，拖动文件。

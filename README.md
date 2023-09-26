@@ -9,7 +9,7 @@
 
 操作系统：`Windows10/11`
 
-项目需求：CodeBlocks+jdk1.8~~如已解决，请忽略以上消息。~~
+项目需求：[`CodeBlocks`](https://wwlh.lanzouw.com/b052htcne )+[`jdk1.8`](https://mp.weixin.qq.com/s/Lyv2zPT1J6r4ef7qu9nRPw)~~如已解决，请忽略以上消息。~~
 
 ------
 

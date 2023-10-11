@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tenth Work</string>
+    <string name="student">191203070126（李锐军）</string>
+    <string name="sure">确定</string>
+    <string name="tishi">请选择要跳到的窗口</string>
+    <string name="Spinner"/>
+    <string name="tv2">请按提示选择国家</string>
+    <string name="prompt">请选择国家</string>
+
+    <string-array name="xz">
+        <item>代码生成spinner</item>
+        <item>自定义spinner</item>
+    </string-array>
+
+    <string name="dialog">android:spinnerMode="dialog"作用明显，控制弹出窗口的内容</string>
+</resources>

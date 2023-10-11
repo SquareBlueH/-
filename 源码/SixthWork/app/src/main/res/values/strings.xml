@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sixth Work</string>
+    <string name="student">191203070126（李锐军）</string>
+    <string name="tishi">请选择</string>
+    <string name="OPMENUActivity">功能菜单及其子菜单</string>
+    <string name="CTENUActivity">上下文菜单</string>
+    <string name="POPActivity">动态菜单</string>
+    <string name="sure">确定</string>
+
+
+    <string name="menu">请点击菜单</string>
+
+    <string name="push">请长按按钮</string>
+    <string name="button">长按我！！！</string>
+
+    <string name="poptv">软件技术</string>
+    <string name="bailan">摆烂</string>
+    <string name="q">计算机系</string>
+    <string name="w">信息管理</string>
+    <string name="e">经济学</string>
+    <string name="r">管理学</string>
+    <string name="t">市场营销学</string>
+    <string name="y">计算机应用</string>
+    <string name="u">软件技术</string>
+    <string name="i">电子商务</string>
+</resources>

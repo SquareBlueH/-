@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Second Work</string>
+    <string name="student">191203070126（李锐军）</string>
+    <string name="tishi">输入用户名和密码</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="denglu">登录</string>
+</resources>

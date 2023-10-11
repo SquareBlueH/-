@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/s"
+        android:title="数字媒体应用技术" />
+    <item
+        android:id="@+id/j"
+        android:title="计算机网络技术" />
+    <item
+        android:id="@+id/r"
+        android:title="软件技术" />
+</menu>

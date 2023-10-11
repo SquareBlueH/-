@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Seven Work</string>
+    <string name="tishi">请选择：</string>
+    <string name="student">191203070126（李锐军）</string>
+    <string name="TouchActivity">触控</string>
+    <string name="GesturesActivity">手势</string>
+    <string name="sure">确定</string>
+
+
+    <string name="textview">Not Touch !</string>
+    <string name="todo" />
+
+
+    <string name="textview2">请输入手势</string>
+</resources>

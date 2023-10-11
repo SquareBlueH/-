@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools= "http://schemas.android.com/tools"
+    tools:context="com.example.sixthwork.CTMENUActivity">
+<group android:checkableBehavior="single ">
+    <item android:id="@+id/apple"
+        android:title="苹果"/>
+<item android:id="@+id/banana"
+    android:title="春笋"/>
+    <item android:id= "@+id/pear"
+        android:title="梨"/>
+    <item android:id="@+id/pitch"
+        android:title="桃子" />
+</group>
+</menu>

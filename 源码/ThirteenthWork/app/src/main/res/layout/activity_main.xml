@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tishi"
+        tools:layout_editor_absoluteX="173dp"
+        tools:layout_editor_absoluteY="84dp" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="27dp"
+        app:layout_constraintStart_toStartOf="@+id/textView1"
+        app:layout_constraintTop_toBottomOf="@+id/textView1">
+
+        <RadioButton
+            android:id="@+id/NA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/NActivity" />
+
+        <RadioButton
+            android:id="@+id/BA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/BActivity" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/sure_s"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="27dp"
+        android:text="@string/sure"
+        app:layout_constraintStart_toStartOf="@+id/radioGroup"
+        app:layout_constraintTop_toBottomOf="@+id/radioGroup" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Sixteenth Work</string>
+    <string name="student">191203070126（李锐军）</string>
+    <string name="tishi">请选择功能：</string>
+
+    <string name="add">新增联系人</string>
+
+    <string name="id">ID</string>
+    <string name="idd">请输入ID</string>
+    <string name="name">姓名</string>
+    <string name="namee">请输入姓名</string>
+    <string name="phone">电话号码</string>
+    <string name="phonee">请输入电话号码</string>
+    <string name="addres">地址</string>
+    <string name="address">请输入地址</string>
+    <string name="adduser">增加</string>
+    <string name="clean">清除</string>
+
+
+    <string name="find">查找联系人</string>
+
+    <string name="qr_tishi">关键字</string>
+    <string name="qr_ed">请输入关键字</string>
+    <string name="btnqr">查询</string>
+
+
+    <string name="use">操作联系人</string>
+
+    <string name="xinxi">信息</string>
+    <string name="mn_xinxi">（第几个/总个数）</string>
+    <string name="down">下一个</string>
+    <string name="up">上一个</string>
+    <string name="change">修改</string>
+    <string name="cl">删除</string>
+
+
+    <string name="sure">确定</string>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FifteenthWork</string>
+    <string name="student">191203070126（李锐军）</string>
+    <string name="tishi">请选择数据存储方式：</string>
+    <string name="SHActivity">键值存储</string>
+
+    <string name="t1">设置首选</string>
+    <string name="t2">照片默认名称</string>
+    <string name="t3">是否自动对焦</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="t4">几秒后自动拍摄</string>
+    <string name="tt1">存储首选</string>
+    <string name="tt2">载入首选</string>
+    <string name="tt3">恢复默认</string>
+    <string name="ISActivity">内部存储</string>
+
+    <string name="tvisa">请输入需存储的文字</string>
+    <string name="isa1">存储文件</string>
+    <string name="isa2">附加后存储</string>
+    <string name="isa3">打开文件</string>
+    <string name="tv_isa">文件未创建</string>
+
+
+    <string name="ESActivity">外部存储</string>
+    <string name="btnSavePublic">存至公开照片</string>
+    <string name="btnSavePerivate">存至私有照片</string>
+    <string name="tvmsg">信息字段</string>
+    <string name="sure">确定</string>
+
+</resources>

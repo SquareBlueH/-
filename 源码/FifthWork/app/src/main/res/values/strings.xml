@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Work5</string>
+    <string name="student">abc</string>
+    <string name="tishi">请选择布局：</string>
+
+    <string name="lna">线性布局</string>
+    <string name="adjust">调整按钮</string>
+
+    <string name="tba">表格</string>
+    <string name="username">用户名</string>
+    <string name="password">密　码</string>
+    <string name="denglu">登录</string>
+    <string name="pry" />
+    <string name="ka">用户名：</string>
+    <string name="boy">男</string>
+    <string name="girl">女</string>
+    <string name="sports">运动</string>
+    <string name="play">上网</string>
+    <string name="reading">看书</string>
+    <string name="queding">确定</string>
+
+    <string name="fra">帧布局</string>
+
+
+    <string name="sure">确定</string>
+</resources>

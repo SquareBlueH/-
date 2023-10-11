@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Eighth Work</string>
+    <string name="student">191203070126（李锐军）</string>
+    <string name="tishi">请选择：</string>
+    <string name="CActivity">日历选择组件与警告框</string>
+    <string name="DActivity">日期与时间选择对话框</string>
+    <string name="sure">确定</string>
+
+
+    <string name="today">当前时间</string>
+    <string name="sure1">SETDATE</string>
+    <string name="sure2">SETTIME</string>
+    <string name="data">DATA</string>
+    <string name="time">TIME</string>
+
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fourteenth Work</string>
+    <string name="student">191203070126（李锐军）</string>
+    <string name="name">歌名：</string>
+    <string name="man">歌手：</string>
+    <string name="up">前一首</string>
+    <string name="down">后一首</string>
+    <string name="start">播放</string>
+    <string name="name_n"/>
+    <string name="man_m"/>
+</resources>

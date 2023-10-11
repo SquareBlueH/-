@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Third Work</string>
+    <string name="student">191203070126（李锐军）</string>
+    <string name="tishi">请输入用户名和密码</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="denglu">提交</string>
+    <string name="dengluother">扩展</string>
+
+
+    <string name="Activity">已实现跳转页面功能</string>
+    <string name="textview" />
+
+
+    <string name="pry" />
+    <string name="ka">用户名：</string>
+    <string name="boy">男</string>
+    <string name="girl">女</string>
+    <string name="sports">运动</string>
+    <string name="play">上网</string>
+    <string name="reading">看书</string>
+    <string name="queding">确定</string>
+</resources>

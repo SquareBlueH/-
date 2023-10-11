@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ninth Work</string>
+    <string name="student">191203070126（李锐军）</string>
+    <string name="today">当前时间</string>
+    <string name="sure1">SETDATE</string>
+    <string name="sure2">SETTIME</string>
+    <string name="data">DATA</string>
+    <string name="time">TIME</string>
+    <string name="set">SET</string>
+    <string name="status">status</string>
+
+</resources>

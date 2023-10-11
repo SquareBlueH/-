@@ -1,0 +1,32 @@
+<menu xmlns:android= "http://schemas.android.com/apk/res/android"
+    xmlns:tools= "http://schemas.android.com/tools"
+tools:context="com.example.sixthwork.OPMENUActivity">
+<item android:id="@+id/deptmenu1"
+    android:title="@string/q">
+<menu>
+<item android:id= "@+id/majormenu1"
+android:title="@string/y"/>
+<item android:id="@+id/majormenu2"
+    android:title="@string/u"/>
+</menu>
+|</item>
+<item android:id="@+id/deptmenu2"
+android:title="@string/i">
+    <menu>
+        <item android:id= "@+id/majormenu11"
+            android:title="@string/t"/>
+        <item android:id="@+id/majormenu22"
+            android:title="@string/r"/>
+        <item android:id="@+id/majormenu33"
+            android:title="@string/e"/>
+    </menu>
+</item>
+
+<item android:id="@+id/deptmenu3"
+android:title="@string/w">
+    <menu>
+        <item android:id= "@+id/majormenu111"
+            android:title="@string/bailan"/>
+    </menu>
+</item>
+</menu>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Thirteenth Work</string>
+    <string name="student">191203070126（李锐军）</string>
+    <string name="tishi">请选择跳转页面：</string>
+    <string name="NActivity">NActivity</string>
+    <string name="BActivity">BActivity</string>
+    <string name="sure">确定</string>
+
+    <string name="tv_na">请遵循按钮指示输入数值：</string>
+    <string name="bt_namit">分</string>
+    <string name="bt_nased">秒</string>
+
+    <string name="ba">meggage</string>
+    <string name="num">input number</string>
+    <string name="msg">input message</string>
+    <string name="bt_ba">SEND</string>
+</resources>

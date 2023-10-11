@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Eleventh Work</string>
+    <string name="student">191203070126（李锐军）</string>
+    <string name="tishi">请选择：</string>
+    <string name="GDActivity">GDActivity</string>
+    <string name="RCVActivity">RCVActivity</string>
+    <string name="WBVActivity">WBVActivity</string>
+    <string name="sure">确定</string>
+
+    <string name="image">图片</string>
+    <string name="tv_name">显示内容</string>
+
+
+    <string name="please">请输入内容</string>
+    <string name="back">BACK</string>
+    <string name="go">GO</string>
+</resources>
